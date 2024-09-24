@@ -15,7 +15,7 @@ This repository contains the code and report for the ICS661 Assignment 1. The ta
 
 ## Files Included
 
-- **`train.csv` & `test.csv`**: The dataset used for training and evaluation.
+- **`train.zip` & `test.csv`**: The dataset used for training and evaluation.
 - **`ICS661_Assignment1.ipynb`**: Source codes for implementation.
 - **`Assignment1_report.docx`**: The final report detailing the model architecture, experiments, and performance results.
   
